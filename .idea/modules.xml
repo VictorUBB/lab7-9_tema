@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/lab7-9.iml" filepath="$PROJECT_DIR$/.idea/lab7-9.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/SEMINAR6_216/SEMINAR6_216/repository/.idea/repository.iml" filepath="$USER_HOME$/Downloads/SEMINAR6_216/SEMINAR6_216/repository/.idea/repository.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/SEMINAR6_216/SEMINAR6_216/service/.idea/service.iml" filepath="$USER_HOME$/Downloads/SEMINAR6_216/SEMINAR6_216/service/.idea/service.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/SEMINAR6_216/SEMINAR6_216/ui/.idea/ui.iml" filepath="$USER_HOME$/Downloads/SEMINAR6_216/SEMINAR6_216/ui/.idea/ui.iml" />
+    </modules>
+  </component>
+</project>

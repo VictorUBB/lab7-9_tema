@@ -1,0 +1,3 @@
+Vlad;2
+Andrei;9
+Mara;7

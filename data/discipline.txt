@@ -1,0 +1,5 @@
+1212;matematica;Alexandru
+2592;informatica;Vasile
+1699;abc;def
+7234;biologie;ABC
+5433;sport;XYX

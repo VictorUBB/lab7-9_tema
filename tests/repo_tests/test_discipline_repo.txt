@@ -1,0 +1,3 @@
+1212;matematica;Alexandru
+2592;informatica;Vasile
+1699;logica;Maria
