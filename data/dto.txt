@@ -1,3 +1,10 @@
-Vlad;2
-Andrei;9
-Mara;7
+wwww;5.0
+Andrei;8.5
+Ion;8.0
+Vlad;2.0
+Victor;8.0
+Radu;0
+Maria;9.0
+Alina;5.0
+Mara;7.0
+Emanuela;2.0

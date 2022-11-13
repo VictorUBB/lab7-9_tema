@@ -4,7 +4,7 @@ from domain.entities import Disciplina
 from domain.validators import DisciplinaValidator
 from exceptions.exceptions import InexistentIdException
 from repository.discipline_repo import InMemoryRepositoryDisciplina
-from service.student_service import DisciplinaService
+from service.discipline_service import DisciplinaService
 
 
 class TestCaseDisciplineService(unittest.TestCase):
